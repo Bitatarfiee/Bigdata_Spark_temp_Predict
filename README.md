@@ -1,6 +1,7 @@
 ## Spark
 
 Work exclusively with Spark. Only the SparkContext is needed
+
 The lowest and highest temperatures measured each year for the period 1950-2014. Provide the lists sorted in descending order with respect to the maximum temperature.
 
 The average monthly temperature for each available station in Sweden.
